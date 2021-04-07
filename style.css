@@ -1,0 +1,114 @@
+body {
+
+}
+.bloc-page {
+    width: 1200px;
+    height: 500px;
+    margin: auto;
+    background-image: url('pont.jpg');
+}
+.Alice {
+    float: left;
+    opacity: 60%;
+    margin-left :200px; 
+}
+nav {
+    padding: 1em;
+    height: 40px;
+    background:rgba(0, 0, 0, 0.4);
+    
+    /* opacity: 40%; */
+}
+nav ul {
+    list-style-type:none;
+     display: flex;
+     margin-left: 300px;
+     margin-top: 1px;
+     padding: 0.1px;
+}
+nav li {
+    font-size: 25px;
+}
+nav a {
+    margin: 1.5em;
+    text-decoration: none;
+    color: ghostwhite;
+    font-family: monospace;
+    font-size: 15px;
+    
+}
+nav a:hover {
+    color: black;
+    background-color:white;
+    padding: 1.7em;
+    border-bottom: 3px solid yellow;
+
+}
+h1{
+    text-align:center ;
+}
+.Bandeau {
+    height: 130px;
+    background: rgba(0, 0, 0, 0.4);
+    margin-top: 160px;
+    /* opacity: 40%; */
+
+}
+.Titre {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+.milieu {
+    width: 450px;
+    height: 130px;
+    margin: auto;
+  /*  opacity: 100%;*/
+    background-color:transparent;
+
+    
+
+}
+.Titre2 {
+    color: black ;
+    text-align: center;
+    background-color: yellow;
+    width: 150px;
+    margin: auto;
+
+}
+mark {
+    background-color: rgba(0, 0, 0, 0.1);
+    color: white;
+}
+mark:hover{
+    background-color: white;
+    color: black;
+}
+.fleche {
+  margin-left: 570px;
+  margin-top:88px;
+  background-color: yellow;
+}
+h5 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p {
+    text-align: center;
+    width: 600px ;
+    margin-left: 650px;
+    font-family: monospace;
+    letter-spacing: 0.1em;
+}
+.ligne {
+    width: 120px;
+    height: 5px;
+    border-bottom:  1px solid yellow;
+    margin: auto;
+}
