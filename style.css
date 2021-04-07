@@ -9,7 +9,7 @@ body {
 }
 .Alice {
     float: left;
-    opacity: 60%;
+    opacity: 100%;
     margin-left :200px; 
 }
 nav {
@@ -102,9 +102,9 @@ h3 {
 p {
     text-align: center;
     width: 600px ;
-    margin-left: 650px;
+    margin-left: 530px;
     font-family: monospace;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.2em;
 }
 .ligne {
     width: 120px;
